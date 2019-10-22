@@ -24,6 +24,7 @@
   
 - **A.5 复杂系统的建模和仿真 (CS, Modeling and Simulation of Complex Systems)**
   - **A.5.1 元胞自动机 (Cellular Automata)**
+    - [教程](https://natureofcode.com/book/chapter-7-cellular-automata/)
   - **A.5.2 张量场 (Tensor Fields)**
   - **A.5.3 智能代理仿真 (Agent-based Simulation)**
   - **A.5.4 其他复杂系统和理论 (Other Complex Systems and Theories)**
