@@ -1,6 +1,6 @@
 ## Procedural Content Generation For Games 游戏过程(程序)化内容生成
 
-- A.1 伪随机数生成器（PRNG）
+- A.1 伪随机数生成器 (Pseudo-Random Number Generators)
   - 柏林噪声(Perlin Noise): 一种基于PRNG的噪声生成器，生成数据点的映射（随机值），如地图数据点是由种子PRNG通过插值法生成。 
 - A.2 生成语法(GG, Generation Grammar)
   
